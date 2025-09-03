@@ -7,9 +7,13 @@ Backend powered by **json-server** to simulate API endpoints.
 
 ## 📸 Screenshots
 
-![Dashboard Preview](./src/components/screenshots/image.png)
+### Dashboard View
+![Dashboard](https://github.com/royalprashant12/Property-Listing-Dashboard/blob/main/screenshots/dashboard.png)
 
-![Another Preview](./src/components/screenshots/Screenshot-2025-09-03-122207.png)
+### Property Card
+![Property Card](https://github.com/royalprashant12/Property-Listing-Dashboard/blob/main/screenshots/card.png)
+
+---
 
 ## 🚀 Features
 
