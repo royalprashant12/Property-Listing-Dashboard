@@ -7,7 +7,7 @@
       "price": 250000,
       "location": "Pune",
       "description": "A large plot of land available for development.",
-      "image": "https://via.placeholder.com/400x200.png?text=Plot"
+      "image": "public/download (1).jpeg"
     },
     {
       "id": "2",
@@ -16,43 +16,17 @@
       "price": 76000,
       "location": "Bangalore",
       "description": "An inclusive shed in a prime location.",
-      "image": "https://via.placeholder.com/400x200.png?text=Shed"
+      "image": "public/image.png"
     },
     {
       "id": "a609",
-      "name": "PRASHANT KUMAR",
+      "name": "land",
       "type": "xyz",
       "price": 12000000,
       "location": "Chennai",
-      "description": "good property",
-      "image": "https://i.imgur.com/floodedstreet123.jpg"
-    },
-    {
-      "id": "42a0",
-      "name": "",
-      "type": "",
-      "price": 0,
-      "location": "",
-      "description": "",
-      "image": ""
-    },
-    {
-      "id": "b1bd",
-      "name": "villa",
-      "type": "xyz",
-      "price": 80000000,
-      "location": "Remote",
-      "description": "good property",
-      "image": "https://www.google.com/imgres?q=home%20property&imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2017%2F07%2F08%2F02%2F16%2Fhouse-2483336_1280.jpg&imgrefurl=https%3A%2F%2Fpixabay.com%2Fphotos%2Fhouse-home-property-residential-2483336%2F&docid=r7xYkYlVxEm7MM&tbnid=_0751LLx201uJM&vet=12ahUKEwjlkfm7v7uPAxVXxzgGHaNvNFwQM3oECBcQAA..i&w=1280&h=895&hcb=2&ved=2ahUKEwjlkfm7v7uPAxVXxzgGHaNvNFwQM3oECBcQAA"
-    },
-    {
-      "id": "ffe3",
-      "name": "",
-      "type": "",
-      "price": 0,
-      "location": "",
-      "description": "",
-      "image": ""
+      "description": "Good property to invest",
+      "image": "public/images.webp"
     }
+    
   ]
 }
