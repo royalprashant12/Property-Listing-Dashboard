@@ -9,7 +9,7 @@ Backend powered by **json-server** to simulate API endpoints.
 
 ![Dashboard Preview](./src/components/screenshots/image.png)
 
-![Another Preview](./src/components/screenshots/Screenshot-2025-09-03-122207.png)
+![Another Preview](src/components/screenshots/Screenshot 2025-09-03 122207.png)
 
 ## 🚀 Features
 
